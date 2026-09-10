@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">المتعلمون الصغار</string>
+    <string name="title">مهام اليوم</string>
+    <string name="add_hint">إضافة مهمة جديدة...</string>
+    <string name="add">إضافة</string>
+    <string name="lang_button">English</string>
+</resources>
